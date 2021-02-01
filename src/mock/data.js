@@ -62,6 +62,26 @@ export const contactData = {
   email: '',
 };
 
+export const reportcardData = [
+{
+    src: "https://i.ibb.co/JmSY6bD/aaron.jpg",
+    grade: "A+",
+    name: "Aaron Peskin"
+},
+{
+    src: "https://i.ibb.co/MBg6gbx/gordon.jpg",
+    grade: "B+",
+    name: "Gordon Mar"
+},
+{
+    src: "https://i.ibb.co/M1GCCmX/connie.jpg",
+    grade: "D+",
+    name: "Connie Chan"
+},
+];
+
+
+
 // FOOTER DATA
 export const footerData = {
   networks: [

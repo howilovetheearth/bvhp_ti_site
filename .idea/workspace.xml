@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="Add context for report card data">
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/examples/example.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/examples/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/gatsby-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/About/About.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Contact/Contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Demands/Demands.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/GithubButtons/GithubButtons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Hero/Hero.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Image/AboutImg.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Image/ProjectImg.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Projects/Projects.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Reportcard/Reportcard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Title/Title.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/context/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/project.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/mock/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/pages/404.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/base/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/layout/_sections.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_demands.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_hero.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_projects.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_reportcard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/vendor/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/vendor/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bvhp_ti" />
+  </component>
+  <component name="ProjectId" id="1no0h5sDjP6KW0XSSBeL7dbQK3n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/style/sections" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="" />
+      <created>1612041251873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612041251873</updated>
+      <workItem from="1613239680732" duration="1499000" />
+      <workItem from="1613260520406" duration="12256000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add context for report card data">
+      <created>1612195170384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612195170385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add context for report card data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add context for report card data" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

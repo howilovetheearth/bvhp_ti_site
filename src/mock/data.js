@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
     title: '',
     info: '',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
     title: '',
     info: '',
     info2: '',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
     title: '',
     info: '',
     info2: '',
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'powerus@gmail.com',
 };
 
 export const reportcardData = [

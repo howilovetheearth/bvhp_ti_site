@@ -73,5 +73,40 @@
         }
       }
     }
+    div#allies-container {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-wrap: wrap;
+      a.ally {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: green;
+        text-align: center;
+        width: 100%;
+        max-width: 240px;
+        span.ally-img {
+          display: block;
+          background-size: 120%;
+          background-position: center center;
+          background-repeat: no-repeat;
+          border: 4px solid green;
+          border-radius: 50%;
+          height: 120px;
+          width: 120px;
+          transition: .2s border ease-in-out;
+        }
+        h3 { margin: 8px auto 40px;}
+        &:hover {
+          color: darkgreen;
+          span.ally-img {
+            border-color: darkgreen;
+            transition: .2s border ease-in-out;
+          }
+        }
+      }
+    }
   }
 }

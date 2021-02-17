@@ -10,55 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="Add context for report card data">
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/examples/example.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/examples/example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/gatsby-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/About/About.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Contact/Contact.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Demands/Demands.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Footer/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/GithubButtons/GithubButtons.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Hero/Hero.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Image/AboutImg.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Image/ProjectImg.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Projects/Projects.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Reportcard/Reportcard.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/components/Title/Title.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/context/context.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/images/project.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/mock/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/pages/404.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/abstracts/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/base/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/components/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/layout/_sections.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_contact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_demands.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_projects.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/sections/_reportcard.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/vendor/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bvhp_ti/src/style/vendor/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+    <list default="true" id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/_projects.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +23,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bvhp_ti" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1no0h5sDjP6KW0XSSBeL7dbQK3n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612041251873</updated>
       <workItem from="1613239680732" duration="1499000" />
-      <workItem from="1613260520406" duration="12256000" />
+      <workItem from="1613260520406" duration="15432000" />
     </task>
     <task id="LOCAL-00001" summary="Add context for report card data">
       <created>1612195170384</created>
@@ -119,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612195170385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add skeleton of report">
+      <created>1613444883907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613444883907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add context for report card data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add context for report card data" />
+    <MESSAGE value="Add skeleton of report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add skeleton of report" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

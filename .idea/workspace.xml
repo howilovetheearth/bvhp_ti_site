@@ -11,11 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/redux/redux.node.state_0" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux/redux.node.state_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux/redux.rest.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux/redux.rest.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mock/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Reportcard/Reportcard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Reportcard/Reportcard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/_reportcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/_reportcard.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612041251873</updated>
       <workItem from="1613239680732" duration="1499000" />
-      <workItem from="1613260520406" duration="15432000" />
+      <workItem from="1613260520406" duration="16176000" />
+      <workItem from="1613570023397" duration="3522000" />
     </task>
     <task id="LOCAL-00001" summary="Add context for report card data">
       <created>1612195170384</created>

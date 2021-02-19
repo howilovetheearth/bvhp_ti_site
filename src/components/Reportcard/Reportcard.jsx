@@ -13,7 +13,7 @@ const FriendlyToggle = ({ report = {}, eventKey, index }) => {
   // eslint-disable-next-line no-undef
   const onClick = useAccordionToggle(eventKey);
   const rotateClass = 'rotateMe';
-  const iconClass = 'report-icon-section';
+  const iconClass = `report-icon-section${index}`;
 
   useEffect(() => {
     if (isExpanded) {
@@ -34,7 +34,7 @@ const FriendlyToggle = ({ report = {}, eventKey, index }) => {
       }}
     >
       <div className="chevron-icon">
-        <i className={`${iconClass} ${index || ''} fa fa-chevron-circle-down`} />
+        <i className={`${iconClass} fa fa-chevron-circle-down`} />
       </div>
       <img className="reportcard-image" src={src} alt={name} border="0" />
       <div className="report-grade">
@@ -72,7 +72,14 @@ const Reportcard = () => {
                 <Card>
                   <FriendlyToggle eventKey="0" report={report} index={index + 1} />
                   <Accordion.Collapse eventKey="0">
-                    <Card.Body>I am a good boy</Card.Body>
+                    <Card.Body className="report-expanded-section">
+                      <div className="moments-of-action">
+                        <h2>Moments of Action</h2>
+                      </div>
+                      <div className="moments-of-silence">
+                        <h2>Moments of Silence</h2>
+                      </div>
+                    </Card.Body>
                   </Accordion.Collapse>
                 </Card>
               </Accordion>

@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
-    title: '',
+    img: 'https://i.ibb.co/XDgMN83/logo-bsn.png',
+    title: 'Brasil Solidarity Network',
     info: '',
     info2: '',
     url: '',
@@ -37,8 +37,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
-    title: '',
+    img: 'https://i.ibb.co/YjxBH3f/logo-cp.png',
+    title: 'Code Pink',
     info: '',
     info2: '',
     url: '',
@@ -46,8 +46,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/JmSY6bD/aaron.jpg',
-    title: '',
+    img: 'https://i.ibb.co/MSzcJHd/logo-dirt.jpg',
+    title: 'Diablo Rising Tide',
     info: '',
     info2: '',
     url: '',

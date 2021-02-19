@@ -12,9 +12,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e861029e-4c86-4918-ab08-66d5cce98813" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.cache/redux/redux.node.state_0" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux/redux.node.state_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux/redux.rest.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux/redux.rest.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Reportcard/Reportcard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Reportcard/Reportcard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mock/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/mock/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/_projects.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style/sections/_reportcard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/_reportcard.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <updated>1612041251873</updated>
       <workItem from="1613239680732" duration="1499000" />
       <workItem from="1613260520406" duration="16176000" />
-      <workItem from="1613570023397" duration="3522000" />
+      <workItem from="1613570023397" duration="8563000" />
     </task>
     <task id="LOCAL-00001" summary="Add context for report card data">
       <created>1612195170384</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613444883907</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Before changing icon class">
+      <created>1613574374758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613574374758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add context for report card data" />
     <MESSAGE value="Add skeleton of report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add skeleton of report" />
+    <MESSAGE value="Before changing icon class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before changing icon class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

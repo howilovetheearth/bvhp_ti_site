@@ -83,7 +83,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        color: green;
+        color: $secondary-color;
         text-align: center;
         width: 100%;
         max-width: 240px;
@@ -92,7 +92,7 @@
           background-size: 120%;
           background-position: center center;
           background-repeat: no-repeat;
-          border: 4px solid green;
+          border: 4px solid $secondary-color;
           border-radius: 50%;
           height: 120px;
           width: 120px;
@@ -100,9 +100,9 @@
         }
         h3 { margin: 8px auto 40px;}
         &:hover {
-          color: darkgreen;
+          color: rgba(0, 0, 0, 0.7);
           span.ally-img {
-            border-color: darkgreen;
+            border-color: rgba(0, 0, 0, 0.7);
             transition: .2s border ease-in-out;
           }
         }
